@@ -2,10 +2,16 @@
     <channel>
         <title><![CDATA[Mototechnik ]]></title>
         <description><![CDATA[Mototechnik ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mototechnik/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 05:07:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 20 Jun 2016 05:07:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mototechnik/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.facebook.com/w.mototechnik/</link>
+            <guid isPermaLink="false">668044c3-191a-4077-be37-c73bd6802940</guid>
+            <pubDate>Mon, 20 Jun 2016 05:07:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Touratech Chile (@touratech_chile) * Instagram photos and videos]]></title>
             <description><![CDATA[<article><h1>Touratech Chile (@touratech_chile) * Instagram photos and videos</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b97e9b0c9b777a0f27f91f12e130f925/noop.jpg?input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-19%2F10953617_1452045465085430_865325603_a.jpg"></article>]]></description>
